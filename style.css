@@ -3,3 +3,27 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center;
+}
+nav{
+  padding: 10px;
+  background-color: rgba(196, 196, 209, 0.651);
+}
+figcaption{
+  font-size: small;
+  text-align: center;
+}
+img{
+  margin-left: 200px;
+}
+p{
+  width: 800px;
+  margin-left: 300px;
+}
+div{
+  float: left;
+  width: 25%;
+  background-color: rgb(201, 10, 35);
+
+}
